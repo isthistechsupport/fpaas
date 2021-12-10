@@ -1,0 +1,8 @@
+[media]
+media_folder = "dataset/media"
+imgur_client = ""
+
+[reddit]
+id = ""
+secret = ""
+subreddits = ""
